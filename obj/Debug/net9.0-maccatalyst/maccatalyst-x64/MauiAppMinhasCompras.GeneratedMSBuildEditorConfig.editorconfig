@@ -1,0 +1,67 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiAppMinhasCompras
+build_property.ProjectDir = C:\Users\Microsoft\source\repos\MauiAppMinhasCompras\MauiAppMinhasCompras\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Microsoft/source/repos/MauiAppMinhasCompras/MauiAppMinhasCompras/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppMinhasCompras.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Microsoft/source/repos/MauiAppMinhasCompras/MauiAppMinhasCompras/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppMinhasCompras.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Microsoft/source/repos/MauiAppMinhasCompras/MauiAppMinhasCompras/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppMinhasCompras.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Microsoft/source/repos/MauiAppMinhasCompras/MauiAppMinhasCompras/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppMinhasCompras.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Microsoft/source/repos/MauiAppMinhasCompras/MauiAppMinhasCompras/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppMinhasCompras.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Microsoft/source/repos/MauiAppMinhasCompras/MauiAppMinhasCompras/views/EditarProduto.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppMinhasCompras.views.EditarProduto.xaml
+build_metadata.AdditionalFiles.TargetPath = views\EditarProduto.xaml
+build_metadata.AdditionalFiles.RelativePath = views\EditarProduto.xaml
+
+[C:/Users/Microsoft/source/repos/MauiAppMinhasCompras/MauiAppMinhasCompras/views/ListaProduto.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppMinhasCompras.views.ListaProduto.xaml
+build_metadata.AdditionalFiles.TargetPath = views\ListaProduto.xaml
+build_metadata.AdditionalFiles.RelativePath = views\ListaProduto.xaml
+
+[C:/Users/Microsoft/source/repos/MauiAppMinhasCompras/MauiAppMinhasCompras/views/NovoProduto.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppMinhasCompras.views.NovoProduto.xaml
+build_metadata.AdditionalFiles.TargetPath = views\NovoProduto.xaml
+build_metadata.AdditionalFiles.RelativePath = views\NovoProduto.xaml
